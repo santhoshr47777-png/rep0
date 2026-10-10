@@ -1,0 +1,9 @@
+{
+  "name": "quick-note-app",
+  "version": "1.0.0",
+  "description": "Quick Note Application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
